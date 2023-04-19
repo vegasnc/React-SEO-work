@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares::asset:pashto/media-23257523",
+    "locators": {
+      "assetUri": "/pashto/media-23257523",
+      "cpsUrn": "urn:bbc:content:assetUri:pashto/media-23257523",
+      "curie": "http://www.bbc.co.uk/asset/33af4333-fbb2-854d-ae2c-6cf747f8cb11",
+      "assetId": "23257523"
+    },
+    "type": "MAP",
+    "createdBy": "pashto-v6",
+    "language": "ps",
+    "lastUpdated": 1588336099171,
+    "firstPublished": 1575384805000,
+    "lastPublished": 1575384805000,
+    "timestamp": 1575384805000,
+    "options": {
+      "isIgorSeoTagsEnabled": false,
+      "includeComments": false,
+      "allowRightHandSide": true,
+      "isFactCheck": false,
+      "allowDateStamp": true,
+      "hasNewsTracker": false,
+      "allowRelatedStoriesBox": true,
+      "isKeyContent": false,
+      "allowHeadline": true,
+      "isBreakingNews": false,
+      "allowPrintingSharingLinks": true
+    },
+    "analyticsLabels": {
+      "cps_asset_type": "map",
+      "counterName": "pashto.embedded_media.media_asset.23257523.page",
+      "cps_asset_id": "23257523"
+    },
+    "passport": { "taggings": [] },
+    "tags": {},
+    "version": "v1.2.1",
+    "blockTypes": ["media", "paragraph"],
+    "includeComments": false
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "p01plp4n",
+        "subType": "clip",
+        "format": "video",
+        "title": "Test Pashto",
+        "synopses": {
+          "short": "Test Pashto",
+          "long": "Test Pashto",
+          "medium": "Test Pashto"
+        },
+        "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/p012zl0f.jpg",
+        "embedding": true,
+        "advertising": true,
+        "caption": "Test Pashto",
+        "versions": [
+          {
+            "versionId": "p01plp4q",
+            "types": ["Original"],
+            "duration": 29,
+            "durationISO8601": "PT29S",
+            "warnings": {},
+            "availableTerritories": {
+              "uk": true,
+              "nonUk": true,
+              "world": false
+            },
+            "availableFrom": 1575384631000
+          }
+        ],
+        "type": "media"
+      },
+      { "text": "Test Pashto", "markupType": "plain_text", "type": "paragraph" }
+    ]
+  },
+  "promo": {
+    "headlines": { "shortHeadline": "Test Pashto", "headline": "Test Pashto" },
+    "locators": {
+      "assetUri": "/pashto/media-23257523",
+      "cpsUrn": "urn:bbc:content:assetUri:pashto/media-23257523",
+      "curie": "http://www.bbc.co.uk/asset/33af4333-fbb2-854d-ae2c-6cf747f8cb11",
+      "assetId": "23257523"
+    },
+    "summary": "Test Pashto",
+    "timestamp": 1575384805000,
+    "language": "ps",
+    "passport": { "taggings": [] },
+    "media": {
+      "id": "p01plp4n",
+      "subType": "clip",
+      "format": "video",
+      "title": "Test Pashto",
+      "synopses": {
+        "short": "Test Pashto",
+        "long": "Test Pashto",
+        "medium": "Test Pashto"
+      },
+      "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/p012zl0f.jpg",
+      "embedding": true,
+      "advertising": true,
+      "caption": "Test Pashto",
+      "versions": [
+        {
+          "versionId": "p01plp4q",
+          "types": ["Original"],
+          "duration": 29,
+          "durationISO8601": "PT29S",
+          "warnings": {},
+          "availableTerritories": { "uk": true, "nonUk": true, "world": false },
+          "availableFrom": 1575384631000
+        }
+      ],
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "63726595",
+      "subType": "index",
+      "href": "http://b.files.bbci.co.uk/E8AA/test/_63726595_chrome.png",
+      "path": "/cpsdevpb/E8AA/test/_63726595_chrome.png",
+      "height": 549,
+      "width": 976,
+      "altText": "bbc",
+      "copyrightHolder": "BBC",
+      "type": "image"
+    },
+    "id": "urn:bbc:ares::asset:pashto/media-23257523",
+    "type": "cps"
+  },
+  "relatedContent": {
+    "section": {
+      "subType": "index",
+      "name": "Media",
+      "uri": "/pashto/media",
+      "type": "simple"
+    },
+    "site": {
+      "subType": "site",
+      "name": "BBC Pashto",
+      "uri": "/pashto",
+      "type": "simple"
+    },
+    "groups": []
+  }
+}

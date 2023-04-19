@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3csz62h",
+    "locators": { "pid": "w3csz62h", "brandPid": "p0340rnm" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_burmese_radio",
+    "language": "my",
+    "lastUpdated": 1608292495740,
+    "firstPublished": 1583569000000,
+    "lastPublished": 1583569000000,
+    "timestamp": 1583569000000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။ - BBC News မြန်မာ",
+      "pageIdentifier": "burmese.bbc_burmese_radio.w3csz62h.page",
+      "producerId": "35",
+      "contentType": "player-episode",
+      "producer": "BURMESE"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။",
+    "releaseDateTimeStamp": 1583539200000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w3csz62h",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "07/03/2020 GMT",
+        "synopses": {
+          "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+          "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+    "locators": { "pid": "w3csz62h", "brandPid": "p0340rnm" },
+    "media": {
+      "id": "w3csz62h",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "07/03/2020 GMT",
+      "synopses": {
+        "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+        "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583539200000,
+    "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3csz62h",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Burmese",
+      "uri": "/burmese",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0yq5", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0yq5",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmrz",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610805570000,
+                  "availableFrom": 1608212670000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0yq5",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0ysf", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0ysf",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmv7",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610719170000,
+                  "availableFrom": 1608126270000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0ysf",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0yr9", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0yr9",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmt3",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610632770000,
+                  "availableFrom": 1608039870000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0yr9",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0yls", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0yls",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "14/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmnl",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610546370000,
+                  "availableFrom": 1607953470000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607904000000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0yls",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0yp0", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0yp0",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "13/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmqt",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610459970000,
+                  "availableFrom": 1607867070000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607817600000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0yp0",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0ymw", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0ymw",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "12/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmpp",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610373570000,
+                  "availableFrom": 1607780670000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607731200000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0ymw",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0ykm", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0ykm",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "11/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmmf",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610287170000,
+                  "availableFrom": 1607694270000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607644800000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0ykm",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "locators": { "pid": "w3ct0yq4", "brandPid": "p0340rnm" },
+            "media": {
+              "id": "w3ct0yq4",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "10/12/2020 GMT",
+              "synopses": {
+                "short": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ",
+                "medium": "သတင်းနှင့်ကမ္ဘာ့မျက်မှောက်ရေးရာ"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmry",
+                  "types": ["Original"],
+                  "duration": 900,
+                  "durationISO8601": "PT15M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610200770000,
+                  "availableFrom": 1607607870000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p088hgd7.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607558400000,
+            "brand": { "pid": "p0340rnm", "title": "ကမ္ဘာ့မျက်မှောက်ရေးရာ။" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_burmese_radio/w3ct0yq4",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

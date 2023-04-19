@@ -1,0 +1,615 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct0lz1",
+    "locators": {
+      "pid": "w3ct0lz1",
+      "brandPid": "p0340v0j"
+    },
+    "type": "WSRADIO",
+    "createdBy": "bbc_pashto_radio",
+    "language": "ps",
+    "lastUpdated": 1588318165729,
+    "firstPublished": 1588321107000,
+    "lastPublished": 1588321107000,
+    "timestamp": 1588321107000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "ماښامنۍ خپرونه - BBC News پښتو",
+      "pageIdentifier": "pashto.bbc_pashto_radio.w3ct0lz1.page",
+      "producerId": "68",
+      "contentType": "player-episode",
+      "producer": "PASHTO"
+    },
+    "tags": {},
+    "version": "v1.2.1",
+    "blockTypes": ["media"],
+    "title": "ماښامنۍ خپرونه",
+    "releaseDateTimeStamp": 1588291200000
+  },
+  "content": {
+    "blocks": [
+      {
+        "availability": "available",
+        "id": "w3ct0lz1",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "01/05/2020 GMT",
+        "synopses": {
+          "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+          "medium": "د بي بي سي ورلډ سروس څخه پروګرامد بي بي سي ورلډ سروس څخه پروګرام کول"
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [
+          {
+            "versionId": "w4hqw5tl",
+            "types": ["Original"],
+            "duration": 1770,
+            "durationISO8601": "PT29M30S",
+            "warnings": {},
+            "availableTerritories": {
+              "uk": false,
+              "nonUk": false,
+              "world": true
+            },
+            "availableUntil": 1590949800000,
+            "availableFrom": 1588347000000
+          }
+        ],
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": {
+      "headline": "ماښامنۍ خپرونه"
+    },
+    "locators": {
+      "pid": "w3ct0lz1",
+      "brandPid": "p0340v0j"
+    },
+    "media": {
+      "id": "w3ct0lz1",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "01/05/2020 GMT",
+      "synopses": {
+        "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+        "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [
+        {
+          "versionId": "w4hqw5tl",
+          "types": ["Original"],
+          "duration": 1770,
+          "durationISO8601": "PT29M30S",
+          "warnings": {},
+          "availableTerritories": {
+            "uk": false,
+            "nonUk": false,
+            "world": true
+          },
+          "availableUntil": 1590949800000,
+          "availableFrom": 1588347000000
+        }
+      ],
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "brand": {
+      "pid": "p0340v0j",
+      "title": "ماښامنۍ خپرونه"
+    },
+    "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct0lz1",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Pashto",
+      "uri": "/pashto",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct155x",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct155x",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "09/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv91",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610119800000,
+                  "availableFrom": 1607527800000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607472000000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct155x",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct154s",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct154s",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "08/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv7x",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610044170000,
+                  "availableFrom": 1607441400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607385600000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct154s",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct1508",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct1508",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "07/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv3d",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609957800000,
+                  "availableFrom": 1607355000000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607299200000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct1508",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct152h",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct152h",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "06/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv5m",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609871400000,
+                  "availableFrom": 1607268600000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607212800000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct152h",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct151c",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct151c",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "05/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv4h",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609785000000,
+                  "availableFrom": 1607182200000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607126400000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct151c",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct14z3",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct14z3",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "04/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv27",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609698600000,
+                  "availableFrom": 1607095800000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607040000000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct14z3",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct153m",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct153m",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "03/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv6r",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609612200000,
+                  "availableFrom": 1607009400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1606953600000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct153m",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": {
+              "headline": "ماښامنۍ خپرونه"
+            },
+            "locators": {
+              "pid": "w3ct155w",
+              "brandPid": "p0340v0j"
+            },
+            "media": {
+              "id": "w3ct155w",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "02/12/2020 GMT",
+              "synopses": {
+                "short": "د بي بي سي ورلډ سروس څخه پروګرام کول",
+                "medium": "د بي بي سي ورلډ سروس څخه پروګرام کول"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwv90",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1609525800000,
+                  "availableFrom": 1606923000000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23c8.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1606867200000,
+            "brand": {
+              "pid": "p0340v0j",
+              "title": "ماښامنۍ خپرونه"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_pashto_radio/w3ct155w",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

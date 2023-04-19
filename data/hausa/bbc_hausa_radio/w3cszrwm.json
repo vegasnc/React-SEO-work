@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3cszrwm",
+    "locators": { "pid": "w3cszrwm", "brandPid": "p030s4mx" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_hausa_radio",
+    "language": "ha",
+    "lastUpdated": 1608293733267,
+    "firstPublished": 1582486516000,
+    "lastPublished": 1582486516000,
+    "timestamp": 1582486516000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "Shirin Yamma - BBC News Hausa",
+      "pageIdentifier": "hausa.bbc_hausa_radio.w3cszrwm.page",
+      "producerId": "51",
+      "contentType": "player-episode",
+      "producer": "HAUSA"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "Shirin Yamma",
+    "releaseDateTimeStamp": 1583366400000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w3cszrwm",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "05/03/2020 GMT",
+        "synopses": {
+          "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+          "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "Shirin Yamma" },
+    "locators": { "pid": "w3cszrwm", "brandPid": "p030s4mx" },
+    "media": {
+      "id": "w3cszrwm",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "05/03/2020 GMT",
+      "synopses": {
+        "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+        "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583366400000,
+    "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3cszrwm",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Hausa",
+      "uri": "/hausa",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct104c", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct104c",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp6r",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610827170000,
+                  "availableFrom": 1608235170000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct104c",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct106m", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct106m",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp90",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610740770000,
+                  "availableFrom": 1608148770000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct106m",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct105h", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct105h",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp7w",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610654370000,
+                  "availableFrom": 1608062370000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct105h",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct100z", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct100z",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "14/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp3c",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610567970000,
+                  "availableFrom": 1607975970000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607904000000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct100z",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct1036", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct1036",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "13/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp5l",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610481570000,
+                  "availableFrom": 1607889570000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607817600000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct1036",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct1022", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct1022",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "12/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp4g",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610395170000,
+                  "availableFrom": 1607803170000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607731200000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct1022",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct104b", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct104b",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "10/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp6q",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610222370000,
+                  "availableFrom": 1607630370000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607558400000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct104b",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Shirin Yamma" },
+            "locators": { "pid": "w3ct106l", "brandPid": "p030s4mx" },
+            "media": {
+              "id": "w3ct106l",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "09/12/2020 GMT",
+              "synopses": {
+                "short": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya.",
+                "medium": "Shiri ne na minti 30 wanda ya kunshi labaru da rahotanni daga sassa daban na duniya."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwp8z",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610135970000,
+                  "availableFrom": 1607543970000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b216l.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607472000000,
+            "brand": { "pid": "p030s4mx", "title": "Shirin Yamma" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_hausa_radio/w3ct106l",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

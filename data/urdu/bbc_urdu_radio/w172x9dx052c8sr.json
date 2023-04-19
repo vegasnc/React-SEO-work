@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172x9dx052c8sr",
+    "locators": { "pid": "w172x9dx052c8sr", "brandPid": "p03413l5" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_urdu_radio",
+    "language": "ur",
+    "lastUpdated": 1608295667463,
+    "firstPublished": 1583569000000,
+    "lastPublished": 1583569000000,
+    "timestamp": 1583569000000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "بی بی سی اردو نیوز بلیٹن - BBC News اردو",
+      "pageIdentifier": "urdu.bbc_urdu_radio.w172x9dx052c8sr.page",
+      "producerId": "95",
+      "contentType": "player-episode",
+      "producer": "URDU"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "بی بی سی اردو نیوز بلیٹن",
+    "releaseDateTimeStamp": 1583539200000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w172x9dx052c8sr",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "07/03/2020 GMT",
+        "synopses": {
+          "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+          "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+    "locators": { "pid": "w172x9dx052c8sr", "brandPid": "p03413l5" },
+    "media": {
+      "id": "w172x9dx052c8sr",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "07/03/2020 GMT",
+      "synopses": {
+        "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+        "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583539200000,
+    "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172x9dx052c8sr",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Urdu",
+      "uri": "/urdu",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl903716", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl903716",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "18/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzw7c8",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610885400000,
+                  "availableFrom": 1608293400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608249600000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl903716",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl900kmc", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl900kmc",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzskyf",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610806200000,
+                  "availableFrom": 1608214200000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl900kmc",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl900fw7", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl900fw7",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzsg69",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610802600000,
+                  "availableFrom": 1608210600000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl900fw7",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl900b43", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl900b43",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzsbg5",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610799000000,
+                  "availableFrom": 1608207000000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl900b43",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl8zxnq8", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl8zxnq8",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzpp1b",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610719800000,
+                  "availableFrom": 1608127800000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl8zxnq8",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl8zxjz4", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl8zxjz4",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzpk96",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610716200000,
+                  "availableFrom": 1608124200000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl8zxjz4",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl8zxf70", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl8zxf70",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzpfk2",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610712600000,
+                  "availableFrom": 1608120600000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl8zxf70",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "بی بی سی اردو نیوز بلیٹن" },
+            "locators": { "pid": "w172xphdl8ztrt5", "brandPid": "p03413l5" },
+            "media": {
+              "id": "w172xphdl8ztrt5",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن",
+                "medium": "دن بھر کی اہم خبروں پر مشتمل دس منٹ دورانیے کے بی بی سی اردو کے نیوز بلیٹن"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w1mshwkx3fzls47",
+                  "types": ["Original"],
+                  "duration": 600,
+                  "durationISO8601": "PT10M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610633400000,
+                  "availableFrom": 1608041400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b23yf.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p03413l5", "title": "بی بی سی اردو نیوز بلیٹن" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_urdu_radio/w172xphdl8ztrt5",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

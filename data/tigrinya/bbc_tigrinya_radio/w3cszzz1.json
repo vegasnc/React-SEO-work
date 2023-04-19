@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3cszzz1",
+    "locators": { "pid": "w3cszzz1", "brandPid": "w13xttny" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_tigrinya_radio",
+    "language": "ti",
+    "lastUpdated": 1608295508348,
+    "firstPublished": 1582568719000,
+    "lastPublished": 1582568719000,
+    "timestamp": 1582568719000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ - BBC News ትግርኛ",
+      "pageIdentifier": "tigrinya.bbc_tigrinya_radio.w3cszzz1.page",
+      "producerId": "91",
+      "contentType": "player-episode",
+      "producer": "TIGRINYA"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ",
+    "releaseDateTimeStamp": 1583452800000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w3cszzz1",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "06/03/2020 GMT",
+        "synopses": {
+          "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+          "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+    "locators": { "pid": "w3cszzz1", "brandPid": "w13xttny" },
+    "media": {
+      "id": "w3cszzz1",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "06/03/2020 GMT",
+      "synopses": {
+        "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+        "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583452800000,
+    "brand": { "pid": "w13xttny", "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3cszzz1",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Tigrinya",
+      "uri": "/tigrinya",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0ycz", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0ycz",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmfr",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610832270000,
+                  "availableFrom": 1608229470000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0ycz",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0yg7", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0yg7",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmj0",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610745870000,
+                  "availableFrom": 1608143070000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0yg7",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0yf3", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0yf3",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmgw",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610659470000,
+                  "availableFrom": 1608056670000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0yf3",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0ybv", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0ybv",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "14/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmdm",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610573070000,
+                  "availableFrom": 1607970270000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607904000000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0ybv",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0y9p", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0y9p",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "11/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmcg",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610313870000,
+                  "availableFrom": 1607711070000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607644800000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0y9p",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0ycy", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0ycy",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "10/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmfq",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610227470000,
+                  "availableFrom": 1607624670000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607558400000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0ycy",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0yg6", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0yg6",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "09/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmhz",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610141070000,
+                  "availableFrom": 1607538270000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607472000000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0yg6",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ" },
+            "locators": { "pid": "w3ct0yf2", "brandPid": "w13xttny" },
+            "media": {
+              "id": "w3ct0yf2",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "08/12/2020 GMT",
+              "synopses": {
+                "short": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም",
+                "medium": "ናይ 15 ደቒቕ ዜናን እዋናዊ ዛዕባታትን ዝሽፍን ፕሮግራም"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwmgv",
+                  "types": ["Original"],
+                  "duration": 883,
+                  "durationISO8601": "PT14M43S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610054670000,
+                  "availableFrom": 1607451870000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8p12.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607385600000,
+            "brand": {
+              "pid": "w13xttny",
+              "title": "ቢቢሲ ትግርኛ ዜና / ዜና፡ ካብ ቢቢሲ ትግርኛ"
+            },
+            "id": "urn:bbc:ares:ws_media:page:bbc_tigrinya_radio/w3ct0yf2",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

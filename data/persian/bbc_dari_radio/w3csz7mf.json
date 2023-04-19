@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3csz7mf",
+    "locators": { "pid": "w3csz7mf", "brandPid": "p04xz36l" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_dari_radio",
+    "language": "fa",
+    "lastUpdated": 1608294645586,
+    "firstPublished": 1583482631000,
+    "lastPublished": 1583482631000,
+    "timestamp": 1583482631000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "چشم انداز بامدادی 1 - BBC News فارسی",
+      "pageIdentifier": "persian.bbc_dari_radio.w3csz7mf.page",
+      "producerId": "69",
+      "contentType": "player-episode",
+      "producer": "PERSIAN"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "چشم انداز بامدادی 1",
+    "releaseDateTimeStamp": 1583539200000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w3csz7mf",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "07/03/2020 GMT",
+        "synopses": {
+          "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+          "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "چشم انداز بامدادی 1" },
+    "locators": { "pid": "w3csz7mf", "brandPid": "p04xz36l" },
+    "media": {
+      "id": "w3csz7mf",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "07/03/2020 GMT",
+      "synopses": {
+        "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+        "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583539200000,
+    "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3csz7mf",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Persian",
+      "uri": "/persian",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct130k", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct130k",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "18/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws35",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610866770000,
+                  "availableFrom": 1608260370000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608249600000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct130k",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct12rn", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct12rn",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "18/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwrv8",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610863170000,
+                  "availableFrom": 1608256770000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608249600000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct12rn",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct1352", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct1352",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws7p",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610780370000,
+                  "availableFrom": 1608173970000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct1352",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct12x5", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct12x5",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwrzs",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610776770000,
+                  "availableFrom": 1608170370000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct12x5",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct137b", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct137b",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws9y",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610693970000,
+                  "availableFrom": 1608087570000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct137b",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct12zf", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct12zf",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws21",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610690370000,
+                  "availableFrom": 1608083970000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct12zf",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct1366", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct1366",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws8t",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610607570000,
+                  "availableFrom": 1608001170000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct1366",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "چشم انداز بامدادی 1" },
+            "locators": { "pid": "w3ct12y9", "brandPid": "p04xz36l" },
+            "media": {
+              "id": "w3ct12y9",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان.",
+                "medium": "تازه ترین خبرهای افغانستان، منطقه و جهان همراه با گزارش ها و بررسی روزنامه های مهم جهان وافغانستان."
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqws0x",
+                  "types": ["Original"],
+                  "duration": 1770,
+                  "durationISO8601": "PT29M30S",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610603970000,
+                  "availableFrom": 1607997570000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b8krp.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p04xz36l", "title": "چشم انداز بامدادی 1" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_dari_radio/w3ct12y9",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

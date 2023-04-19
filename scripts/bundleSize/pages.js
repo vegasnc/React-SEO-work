@@ -1,0 +1,15 @@
+exports.pages = [
+  'ArticlePage',
+  'ErrorPage',
+  'FrontPage',
+  'HomePage',
+  'IdxPage',
+  'MostReadPage',
+  'LiveRadioPage',
+  'MediaAssetPage',
+  'MostWatchedPage',
+  'OnDemandAudioPage',
+  'OnDemandTvPage',
+  'PhotoGalleryPage',
+  'StoryPage',
+];

@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3cszwmc",
+    "locators": { "pid": "w3cszwmc", "brandPid": "p0340xth" },
+    "type": "WSRADIO",
+    "createdBy": "bbc_kyrgyz_radio",
+    "language": "ky",
+    "lastUpdated": 1608294253119,
+    "firstPublished": 1582550741000,
+    "lastPublished": 1582550741000,
+    "timestamp": 1582550741000,
+    "options": {},
+    "analyticsLabels": {
+      "pageTitle": "Лондон сүйлөйт - BBC News Кыргыз КызMATы",
+      "pageIdentifier": "kyrgyz.bbc_kyrgyz_radio.w3cszwmc.page",
+      "producerId": "58",
+      "contentType": "player-episode",
+      "producer": "KYRGYZ"
+    },
+    "tags": {},
+    "version": "v1.3.11",
+    "blockTypes": ["media"],
+    "title": "Лондон сүйлөйт",
+    "releaseDateTimeStamp": 1583452800000,
+    "atiAnalytics": {}
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "w3cszwmc",
+        "subType": "episode",
+        "format": "Audio",
+        "title": "06/03/2020 GMT",
+        "synopses": {
+          "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү\n",
+          "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү\n"
+        },
+        "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+        "embedding": false,
+        "advertising": false,
+        "versions": [],
+        "availability": "notAvailable",
+        "smpKind": "radioProgramme",
+        "type": "media"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": { "headline": "Лондон сүйлөйт" },
+    "locators": { "pid": "w3cszwmc", "brandPid": "p0340xth" },
+    "media": {
+      "id": "w3cszwmc",
+      "subType": "episode",
+      "format": "Audio",
+      "title": "06/03/2020 GMT",
+      "synopses": {
+        "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү\n",
+        "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү\n"
+      },
+      "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+      "embedding": false,
+      "advertising": false,
+      "versions": [],
+      "availability": "notAvailable",
+      "smpKind": "radioProgramme",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "",
+      "subType": "index",
+      "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+      "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+      "height": 0,
+      "width": 0,
+      "altText": null,
+      "copyrightHolder": null,
+      "type": "image"
+    },
+    "releaseDateTimestamp": 1583452800000,
+    "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+    "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3cszwmc",
+    "type": "ws_radio"
+  },
+  "relatedContent": {
+    "site": {
+      "subType": "site",
+      "name": "Kyrgyz",
+      "uri": "/kyrgyz",
+      "type": "simple"
+    },
+    "groups": [
+      {
+        "type": "other-episode",
+        "promos": [
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16fs", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16fs",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "17/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwlb",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610811000000,
+                  "availableFrom": 1608211800000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608163200000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16fs",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16j1", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16j1",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "16/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwnl",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610724600000,
+                  "availableFrom": 1608125400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1608076800000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16j1",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16gx", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16gx",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "15/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwmg",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610638200000,
+                  "availableFrom": 1608039000000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607990400000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16gx",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16dn", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16dn",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "14/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwk6",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610551800000,
+                  "availableFrom": 1607952600000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607904000000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16dn",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16ch", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16ch",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "11/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwj1",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610292600000,
+                  "availableFrom": 1607693400000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607644800000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16ch",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16fr", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16fr",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "10/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwl9",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610206200000,
+                  "availableFrom": 1607607000000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607558400000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16fr",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16j0", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16j0",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "09/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwnk",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610119800000,
+                  "availableFrom": 1607520600000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607472000000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16j0",
+            "type": "ws_radio"
+          },
+          {
+            "headlines": { "headline": "Лондон сүйлөйт" },
+            "locators": { "pid": "w3ct16gw", "brandPid": "p0340xth" },
+            "media": {
+              "id": "w3ct16gw",
+              "subType": "episode",
+              "format": "Audio",
+              "title": "08/12/2020 GMT",
+              "synopses": {
+                "short": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү",
+                "medium": "Би-Би-Си Кыргыз кызматынын соңку кабарларды талдаган радио берүүсү"
+              },
+              "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "embedding": false,
+              "advertising": false,
+              "versions": [
+                {
+                  "versionId": "w4hqwwmf",
+                  "types": ["Original"],
+                  "duration": 1800,
+                  "durationISO8601": "PT30M",
+                  "warnings": {},
+                  "availableTerritories": {
+                    "uk": false,
+                    "nonUk": false,
+                    "world": true
+                  },
+                  "availableUntil": 1610033400000,
+                  "availableFrom": 1607434200000,
+                  "availabilityStatus": "available"
+                }
+              ],
+              "availability": "available",
+              "smpKind": "radioProgramme",
+              "type": "media"
+            },
+            "indexImage": {
+              "id": "",
+              "subType": "index",
+              "href": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "path": "ichef.bbci.co.uk/images/ic/$recipe/p08b24cn.png",
+              "height": 0,
+              "width": 0,
+              "altText": null,
+              "copyrightHolder": null,
+              "type": "image"
+            },
+            "releaseDateTimestamp": 1607385600000,
+            "brand": { "pid": "p0340xth", "title": "Лондон сүйлөйт" },
+            "id": "urn:bbc:ares:ws_media:page:bbc_kyrgyz_radio/w3ct16gw",
+            "type": "ws_radio"
+          }
+        ]
+      }
+    ]
+  }
+}

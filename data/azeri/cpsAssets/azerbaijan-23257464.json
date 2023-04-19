@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares::asset:azeri/azerbaijan-23257464",
+    "locators": {
+      "assetUri": "/azeri/azerbaijan-23257464",
+      "cpsUrn": "urn:bbc:content:assetUri:azeri/azerbaijan-23257464",
+      "curie": "http://www.bbc.co.uk/asset/d39ebe18-605c-5543-86eb-639422147697",
+      "assetId": "23257464"
+    },
+    "type": "MAP",
+    "createdBy": "azeri-v6",
+    "language": "az",
+    "lastUpdated": 1588336091050,
+    "firstPublished": 1575369900000,
+    "lastPublished": 1575369900000,
+    "timestamp": 1575369900000,
+    "options": {
+      "isIgorSeoTagsEnabled": false,
+      "includeComments": false,
+      "allowRightHandSide": true,
+      "isFactCheck": false,
+      "allowDateStamp": true,
+      "hasNewsTracker": false,
+      "allowRelatedStoriesBox": true,
+      "isKeyContent": false,
+      "allowHeadline": true,
+      "isBreakingNews": false,
+      "allowPrintingSharingLinks": true
+    },
+    "analyticsLabels": {
+      "cps_asset_type": "map",
+      "counterName": "azeri.azerbaijan.media_asset.23257464.page",
+      "cps_asset_id": "23257464"
+    },
+    "passport": {
+      "taggings": []
+    },
+    "tags": {},
+    "version": "v1.2.1",
+    "blockTypes": ["media", "paragraph"],
+    "includeComments": false
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "p01d23fd",
+        "subType": "clip",
+        "format": "video",
+        "title": "Clip title - e2e test 2017-08-31T17:36:59+00:00",
+        "synopses": {
+          "short": "Clip short synopsis - e2e test",
+          "medium": "Clip medium synopsis - e2e test",
+          "long": "Clip long synopsis - e2e test"
+        },
+        "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/legacy/clip/p01d23fd.jpg",
+        "embedding": false,
+        "advertising": true,
+        "caption": "my media caption",
+        "versions": [
+          {
+            "versionId": "p01d23fm",
+            "types": ["Original"],
+            "duration": 6,
+            "durationISO8601": "PT6S",
+            "warnings": {},
+            "availableTerritories": {
+              "uk": true,
+              "nonUk": true,
+              "world": false
+            },
+            "availableFrom": 1504201082000
+          }
+        ],
+        "type": "media"
+      },
+      {
+        "text": "Clip long synopsis - e2e test",
+        "markupType": "plain_text",
+        "type": "paragraph"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": {
+      "shortHeadline": "Azeri MAP test",
+      "headline": "Clip short synopsis - e2e test"
+    },
+    "locators": {
+      "assetUri": "/azeri/azerbaijan-23257464",
+      "cpsUrn": "urn:bbc:content:assetUri:azeri/azerbaijan-23257464",
+      "curie": "http://www.bbc.co.uk/asset/d39ebe18-605c-5543-86eb-639422147697",
+      "assetId": "23257464"
+    },
+    "summary": "Clip medium synopsis - e2e test",
+    "timestamp": 1575369900000,
+    "language": "az",
+    "passport": {
+      "taggings": []
+    },
+    "media": {
+      "id": "p01d23fd",
+      "subType": "clip",
+      "format": "video",
+      "title": "Clip title - e2e test 2017-08-31T17:36:59+00:00",
+      "synopses": {
+        "short": "Clip short synopsis - e2e test",
+        "medium": "Clip medium synopsis - e2e test",
+        "long": "Clip long synopsis - e2e test"
+      },
+      "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/legacy/clip/p01d23fd.jpg",
+      "embedding": false,
+      "advertising": true,
+      "caption": "my media caption",
+      "versions": [
+        {
+          "versionId": "p01d23fm",
+          "types": ["Original"],
+          "duration": 6,
+          "durationISO8601": "PT6S",
+          "warnings": {},
+          "availableTerritories": {
+            "uk": true,
+            "nonUk": true,
+            "world": false
+          },
+          "availableFrom": 1504201082000
+        }
+      ],
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "63726533",
+      "subType": "index",
+      "href": "http://b.files.bbci.co.uk/831A/test/_63726533_p01fcplf.jpg",
+      "path": "/cpsdevpb/831A/test/_63726533_p01fcplf.jpg",
+      "height": 549,
+      "width": 976,
+      "altText": "Buqqaafamtoota keessaa",
+      "copyrightHolder": "BBC",
+      "type": "image"
+    },
+    "id": "urn:bbc:ares::asset:azeri/azerbaijan-23257464",
+    "type": "cps"
+  },
+  "relatedContent": {
+    "section": {
+      "subType": "index",
+      "name": "Azərbaycan",
+      "uri": "/azeri/azerbaijan",
+      "type": "simple"
+    },
+    "site": {
+      "subType": "site",
+      "name": "BBC Azərbaycanca",
+      "uri": "/azeri",
+      "type": "simple"
+    },
+    "groups": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "id": "urn:bbc:ares::asset:amharic/news-23263266",
+    "locators": {
+      "assetUri": "/amharic/news-23263266",
+      "cpsUrn": "urn:bbc:content:assetUri:amharic/news-23263266",
+      "curie": "http://www.bbc.co.uk/asset/1d1cb419-974b-8241-99b1-a13a7c5220fe",
+      "assetId": "23263266"
+    },
+    "type": "MAP",
+    "createdBy": "amharic-v6",
+    "language": "am",
+    "lastUpdated": 1588335920840,
+    "firstPublished": 1580305097000,
+    "lastPublished": 1580305097000,
+    "timestamp": 1580305097000,
+    "options": {
+      "isIgorSeoTagsEnabled": false,
+      "includeComments": false,
+      "allowRightHandSide": true,
+      "isFactCheck": false,
+      "allowDateStamp": true,
+      "hasNewsTracker": false,
+      "allowRelatedStoriesBox": true,
+      "isKeyContent": false,
+      "allowHeadline": true,
+      "isBreakingNews": false,
+      "allowPrintingSharingLinks": true
+    },
+    "analyticsLabels": {
+      "cps_asset_type": "map",
+      "counterName": "amharic.news.media_asset.23263266.page",
+      "cps_asset_id": "23263266"
+    },
+    "passport": {
+      "taggings": []
+    },
+    "tags": {},
+    "version": "v1.2.1",
+    "blockTypes": ["media", "heading", "paragraph"],
+    "includeComments": false
+  },
+  "content": {
+    "blocks": [
+      {
+        "id": "p01n40vn",
+        "subType": "clip",
+        "format": "video",
+        "title": "A vertical video pretending to be a cat title",
+        "synopses": {
+          "short": "A vertical video pretending to be a cat short synopsis"
+        },
+        "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/p01n71w7.jpg",
+        "embedding": true,
+        "advertising": true,
+        "caption": "A vertical video pretending to be a cat short synopsis",
+        "versions": [
+          {
+            "versionId": "p01n40vq",
+            "types": ["Portrait"],
+            "duration": 11,
+            "durationISO8601": "PT11S",
+            "warnings": {},
+            "availableTerritories": {
+              "uk": true,
+              "nonUk": true,
+              "world": false
+            },
+            "availableFrom": 1563017501000
+          }
+        ],
+        "imageCopyright": "BBC",
+        "type": "media"
+      },
+      {
+        "text": "Random cat text",
+        "markupType": "plain_text",
+        "type": "heading"
+      },
+      {
+        "text": "My left donut is missing, as is my right more napping, more napping all the napping is exhausting. Lick yarn hanging out of own butt. Weigh eight pounds but take up a full-size bed stare at ceiling light or claw drapes making bread on the bathrobe annoy the old grumpy cat, start a fight and then retreat to wash when i lose sleep. Sleep everywhere, but not in my bed scratch at door to be let outside, get let out then scratch at door immmediately after to be let back in meeeeouw good morning sunshine. I is not fat, i is fluffy scratch the box but meowzer that box?",
+        "markupType": "plain_text",
+        "type": "paragraph"
+      },
+      {
+        "text": "Munch on tasty moths being gorgeous with belly side up stuff and things yet hunt by meowing loudly at 5am next to human slave food dispenser lick the curtain just to be annoying so favor packaging over toy and cats go for world domination. More napping, more napping all the napping is exhausting lounge in doorway. Somehow manage to catch a bird but have no idea what to do next,",
+        "markupType": "plain_text",
+        "type": "paragraph"
+      }
+    ]
+  },
+  "promo": {
+    "headlines": {
+      "shortHeadline": "Amharic test MAP A vertical video pretending to be a cat title",
+      "headline": "Amharic test MAP A vertical video pretending to be a cat short synopsis"
+    },
+    "locators": {
+      "assetUri": "/amharic/news-23263266",
+      "cpsUrn": "urn:bbc:content:assetUri:amharic/news-23263266",
+      "curie": "http://www.bbc.co.uk/asset/1d1cb419-974b-8241-99b1-a13a7c5220fe",
+      "assetId": "23263266"
+    },
+    "summary": "amharic test",
+    "timestamp": 1580305097000,
+    "language": "am",
+    "passport": {
+      "taggings": []
+    },
+    "media": {
+      "id": "p01n40vn",
+      "subType": "clip",
+      "format": "video",
+      "title": "A vertical video pretending to be a cat title",
+      "synopses": {
+        "short": "A vertical video pretending to be a cat short synopsis"
+      },
+      "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/p01n71w7.jpg",
+      "embedding": true,
+      "advertising": true,
+      "caption": "A vertical video pretending to be a cat short synopsis",
+      "versions": [
+        {
+          "versionId": "p01n40vq",
+          "types": ["Portrait"],
+          "duration": 11,
+          "durationISO8601": "PT11S",
+          "warnings": {},
+          "availableTerritories": {
+            "uk": true,
+            "nonUk": true,
+            "world": false
+          },
+          "availableFrom": 1563017501000
+        }
+      ],
+      "imageCopyright": "BBC",
+      "type": "media"
+    },
+    "indexImage": {
+      "id": "63730205",
+      "subType": "index",
+      "href": "http://b.files.bbci.co.uk/C41B/test/_63730205_p01n71w7.jpg",
+      "path": "/cpsdevpb/C41B/test/_63730205_p01n71w7.jpg",
+      "height": 1152,
+      "width": 2048,
+      "altText": "Cat",
+      "copyrightHolder": "BBC",
+      "type": "image"
+    },
+    "id": "urn:bbc:ares::asset:amharic/news-23263266",
+    "type": "cps"
+  },
+  "relatedContent": {
+    "section": {
+      "subType": "index",
+      "name": "ዜና",
+      "uri": "/amharic/news",
+      "type": "simple"
+    },
+    "site": {
+      "subType": "site",
+      "name": "BBC አማርኛ",
+      "uri": "/amharic",
+      "type": "simple"
+    },
+    "groups": []
+  }
+}
